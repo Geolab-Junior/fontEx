@@ -1,0 +1,125 @@
+body{
+	padding: 30px
+}
+.logo{
+	vertical-align: middle;
+    width: 101px;
+    height: 31px;
+}
+.header-navigation {
+	margin-bottom: 16px;
+	display: inline-block;
+	 vertical-align: top;
+}
+.header-navigation li{
+	display: inline-block;
+	padding-bottom: 10px;
+	color: #3D58A6;
+	font-family: "Mtavruli" ;
+	font-size: 22px;
+}	
+.header-navigation .main {
+	color: #EE4036;
+}
+footer img{
+	height: 30px;
+	width: auto;
+	margin-top:30px; 
+}
+.fb{
+	padding-right: 32px;
+	border-right: 1px solid #3D58A6;
+}
+.yt{
+	margin-left:32px;
+}
+.date .number{
+	margin-top: 80px;
+	background-color:#3D58A6;
+	padding:15px;
+	color:white;
+	display:inline-block;
+}
+.date .month{
+	font-size: 22px;
+	color:#3D58A6;
+}
+.first h3{
+	margin:22px 0px;
+	font-size: 20px;
+}
+.first .text{
+	display: inline-block;
+	font-size: 16px;
+}
+.second h3{
+	margin:22px 0px;
+	font-size: 20px;
+}
+.second .text{
+	display: inline-block;
+	font-size: 16px;
+}
+.third h3{
+	margin:22px 0px;
+	font-size: 20px;
+}
+.third .text{
+	display: inline-block;
+	font-size: 16px;
+}
+.contact-section{
+	font-size: 20px;
+	display: inline-block;
+}.contact-section h3{
+	color: #3D58A6;
+}
+.header-navigation li{
+display: inline-block;
+margin-right: 20px;
+margin-left: 20px
+}
+.sec2 div{
+	background-color: #F2F2F2;
+	width:570px;
+	height:225px;
+	display: inline-block;
+	padding: 0px 20px;
+}
+.h2{
+	margin-top: 120px;
+	margin-bottom: 40px;
+}
+.left{
+	margin-right: 45px;
+}
+.sec2 div p{
+	display: inline-block;
+	margin-left: 60px;
+	font-size: 20px;
+	width: 355px;
+}
+.sec2 div h3{
+margin: 20px 0px;
+font-family: "regular", fantasy;
+text-transform: uppercase;
+font-weight: ;
+}
+.sec2 h3{
+	color: #3D58A6;
+}
+.pic{
+	display: inline-block;
+	 vertical-align: top;
+	 padding-right: 40px;
+}
+.contact-section{
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 90px;
+}
+.img-section{
+	display: inline-block;
+	margin-top: 70px;
+	margin-left:131px;
+}
